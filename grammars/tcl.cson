@@ -1,5 +1,6 @@
 'fileTypes': [
   'tcl'
+  'eagle'
 ]
 'firstLineMatch': '^#!/.*\\btclsh\\b'
 'name': 'Tcl'
